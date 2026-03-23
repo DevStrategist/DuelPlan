@@ -1,0 +1,16 @@
+{
+  "name": "duelplan",
+  "description": "Adversarial plan review with Codex CLI",
+  "owner": {
+    "name": "DevStrategist",
+    "email": "rex@duck.com"
+  },
+  "plugins": [
+    {
+      "name": "duelplan",
+      "description": "Adversarial plan review: Claude drafts, Codex critiques, repeat until stable",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}

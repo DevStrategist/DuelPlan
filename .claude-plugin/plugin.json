@@ -1,0 +1,13 @@
+{
+  "name": "duelplan",
+  "description": "Adversarial plan review: Claude drafts, Codex critiques, repeat until stable",
+  "version": "1.0.0",
+  "author": {
+    "name": "DevStrategist",
+    "email": "rex@duck.com"
+  },
+  "homepage": "https://github.com/DevStrategist/duelplan",
+  "repository": "https://github.com/DevStrategist/duelplan",
+  "license": "MIT",
+  "keywords": ["planning", "adversarial", "codex", "review", "skills"]
+}
