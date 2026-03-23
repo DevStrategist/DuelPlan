@@ -44,7 +44,7 @@ Then install:
 
 Ask for extra rigor on any plan:
 
-- "use double plan mode"
+- "use duelplan"
 - "I want adversarial review on this plan"
 - "give this plan extra scrutiny"
 
@@ -58,7 +58,7 @@ We recommend [Superpowers](https://github.com/obra/superpowers) to level up the 
 
 ### Skills
 
-- **double-plan-mode** — Adversarial critique loop between Claude and Codex CLI
+- **duelplan** — Adversarial critique loop between Claude and Codex CLI
 
 ## License
 

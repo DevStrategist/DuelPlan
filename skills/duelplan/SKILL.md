@@ -1,5 +1,5 @@
 ---
-name: double-plan-mode
+name: duelplan
 description: Use when you want extra rigor on a plan — adversarial iteration between Claude and Codex CLI until the plan reaches a stable, robust structure
 ---
 
